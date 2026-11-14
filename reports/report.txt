@@ -1,0 +1,6 @@
+Log Analysis Report
+===================
+Total Logs: 8
+ERROR: 3
+WARNING: 2
+INFO: 3
